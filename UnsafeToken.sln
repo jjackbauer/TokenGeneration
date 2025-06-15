@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnsafeToken", "UnsafeToken.csproj", "{A106700B-6F05-78CE-327E-1D8B0A3B8230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A106700B-6F05-78CE-327E-1D8B0A3B8230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A106700B-6F05-78CE-327E-1D8B0A3B8230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A106700B-6F05-78CE-327E-1D8B0A3B8230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A106700B-6F05-78CE-327E-1D8B0A3B8230}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AC2DE0C-9428-4522-B1ED-0AAC33257D83}
+	EndGlobalSection
+EndGlobal
